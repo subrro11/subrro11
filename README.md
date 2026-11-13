@@ -16,6 +16,7 @@ Every skill I publish follows this loop. Examples are fictional, so the thinking
 
 | Discipline | Skill | What it does |
 |---|---|---|
+| product | [Deep Research](https://github.com/subrro11/rohit-skills/tree/main/product/skills/deep-research) | Researches a company or idea (company, competitors, news, trends, frameworks), cites only what it read, and hands the evidence to the PRD |
 | product | [PRD Generator and Product Quiz Agent](https://github.com/subrro11/rohit-skills/tree/main/product/skills/prd-generator) | Quizzes you on problem, PMF, north star, goals and prioritisation, then writes the PRD and a prototype prompt |
 
 See it in action: [a real quiz run, the PRD and the prototype prompt](https://github.com/subrro11/rohit-skills/tree/main/product/skills/prd-generator/examples/shiftplate) for a fictional product.
